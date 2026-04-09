@@ -18,7 +18,7 @@ Based in Portland, OR 🌲
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `Ruby on Rails` · `SQL` · `PostgreSQL` · `MySQL` · `REST APIs` · `Tailwind CSS` · `Docker` · `Playwright`
 
-## 🏔️ Featured project: Tierra Libre Run
+## 🏔️ Featured Work: Tierra Libre Run
 
 [**tierralibrerun**](https://github.com/laurosilvacom/tierralibrerun) — the platform behind [Tierra Libre Run](https://tierralibre.run), a nonprofit I founded to make trail running accessible to runners of color.
 

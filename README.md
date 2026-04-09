@@ -1,38 +1,42 @@
-# Hey! 👋🏼 I'm Lauro
 # Lauro Silva
 
-Senior full-stack engineer and developer educator. I build products and teach the teams behind them.
+Software engineer with 8+ years building web applications in TypeScript, React, Next.js, Node.js, Ruby on Rails, and SQL. I've shipped production code at Google, Sentry, Shopify, and egghead.io, and I teach live workshops for O'Reilly Media.
 
 Based in Portland, OR.
 
-## Work
+## What I work on
 
-I've shipped production software and delivered technical education for companies including:
-
-| Company | Work |
-|---|---|
-| **Google** | Developer education platform — content and tooling for engineering teams adopting modern web technologies |
-| **O'Reilly** | Live technical workshops on React, TypeScript, and modern web development for professional engineers |
-| **Sentry** | Developer experience and education — improving onboarding and adoption for Sentry's platform |
-| **HOKA** | Full-stack product development — performant web experiences for one of the fastest-growing brands in running |
-| **egghead** | Published technical courses reaching thousands of developers on modern web development |
+| Company | Role | What I built |
+|---|---|---|
+| **Google** | Developer Experience Engineer | Onboarding tooling and educational resources for an internal framework powering YouTube. Worked in Google's monorepo building production code examples and documentation |
+| **Sentry** | Senior Software Engineer, DX | Rebuilt the developer onboarding flow. Rewrote setup guides, SDK integration examples, and shipped fullstack features for the docs site and monitoring dashboard |
+| **Shopify** | Software Engineer, DX | Internal developer tooling and external partner integration experience across a large distributed engineering org |
+| **egghead.io** | Content Engineer → Senior → Director | 4 years. Started shipping features across the Rails monolith, led the Rails-to-Next.js migration, then co-owned product development for standalone platforms like Epic React |
+| **O'Reilly Media** | Technical Instructor | Live workshops on React, TypeScript, Node.js, and AI for working engineers |
 
 ## Stack
 
-React · Next.js · TypeScript · Node.js · Tailwind CSS · Sanity · Vercel
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Ruby on Rails` · `SQL` · `PostgreSQL` · `MySQL` · `REST APIs` · `Tailwind CSS` · `Docker` · `Playwright`
 
-## Teaching
+## Featured project: Tierra Libre Run
 
-I design and deliver workshops for engineering teams. Topics include React, Next.js, TypeScript, AI integration, architecture, and testing strategies.
+[**tierralibrerun**](https://github.com/laurosilvacom/tierralibrerun) — the platform behind [Tierra Libre Run](https://tierralibre.run), a nonprofit I founded to make trail running accessible to runners of color.
 
-Previously taught at **O'Reilly Media** (live workshops) and **egghead.io** (video courses). Currently running workshops on prompt engineering and AI integration.
+We sponsor athletes, fund race entries, match runners with mentors, and partner with 11 race organizations. I needed a platform that could handle all of it, so I built one.
 
-## Open Source & Community
+**The tech:** Next.js 16 (App Router, server actions), TypeScript (99.2% of the codebase), PlanetScale + Drizzle ORM, Clerk auth, Sanity CMS, Resend transactional email. Deployed on Vercel.
 
-Founder of [Tierra Libre Run](https://tierralibre.run) — a nonprofit making trail running more accessible to runners of color. We sponsor runners, fund race entries, and partner with races to create more inclusive spaces.
+**What it does:**
+- Race funding applications with multi-step review workflows
+- Mentor matching and onboarding
+- Event RSVPs and athlete dashboards
+- Admin surfaces for fund management, partner coordination, and email actions
+- Content system powered by Sanity for blog, stories, and race profiles
+
+The whole thing is open source. One contributor (me), built from scratch, running in production.
 
 ## Links
 
 - [laurosilva.com](https://laurosilva.com)
 - [LinkedIn](https://www.linkedin.com/in/laurosilvacom)
-- [hello@laurosilva.com](mailto:hello@laurosilva.com)
+- [me@laurosilva.com](mailto:me@laurosilva.com)
